@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="250dp"
+  android:layout_height="wrap_content"
+  android:orientation="vertical">
+  <TextView
+    android:id="@+id/widget_recipe_title_text_view"
+    android:textStyle="bold"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorAccent"
+    android:gravity="center_horizontal"
+    android:textColor="@android:color/white"
+    android:textSize="16sp"
+    tools:text="Nutella"/>
+
+    <TextView
+      android:id="@+id/widget_ingredient"
+      android:textStyle="bold"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:padding="16dp"
+      android:background="@android:color/white"
+      android:textSize="12sp"
+      tools:text="Hello youtube"/>
+
+
+</LinearLayout>
