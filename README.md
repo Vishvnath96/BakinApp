@@ -1,5 +1,4 @@
 ## Baking-App
-Udacity's Android developer nano degree project
 A material design app for learning to cook recipes.
 
 Using ExoPlayer API for playing videos and audios
